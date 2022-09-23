@@ -30,13 +30,11 @@ Please refer to the LICENSE in the repo.
 5) Change value of existing code while keeping exact same given design
 6) Add comments to code
 
-## Deployed Application Link
+## Links
 
-https://danialmirza99.github.io/code-refactor/
+[Deploable Application Link](https://danialmirza99.github.io/code-refactor/)
+[Github Repository Link]([https://danialmirza99.github.io/code-refactor/](https://github.com/danialmirza99/code-refactor.git))
 
-## Github Repo Link
-
-https://github.com/danialmirza99/code-refactor.git
 
 ## Screenshots
 
