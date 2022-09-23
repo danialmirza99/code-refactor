@@ -32,6 +32,12 @@ Please refer to the LICENSE in the repo.
 
 ## Deployed Application Link
 
+https://danialmirza99.github.io/code-refactor/
+
+## Github Repo Link
+
+https://github.com/danialmirza99/code-refactor.git
+
 ## Screenshots
 
 <img width="1440" alt="Screen Shot 2022-09-22 at 9 37 41 PM" src="https://user-images.githubusercontent.com/61335608/191892965-818c271e-3f19-4062-b0ab-1573e24f9361.png">
